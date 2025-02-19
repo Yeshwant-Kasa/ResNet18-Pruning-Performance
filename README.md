@@ -136,9 +136,9 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 👨‍💻 **Author**
-📌 **Your Name** – *Machine Learning Researcher & AI Enthusiast*  
-📧 [your.email@example.com](mailto:your.email@example.com)  
-🌍 [GitHub Profile](https://github.com/yourusername)
+📌 **Kasa Yeshwant** – *Machine Learning Researcher & AI Enthusiast*  
+📧 [yeshwantkasa@gmail.com](mailto:your.email@example.com)  
+🌍 [GitHub Profile](https://github.com/Yeshwant-Kasa)
 
 ---
 
