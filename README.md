@@ -78,7 +78,7 @@ Key findings reveal that:
 ### **1️⃣ Install Dependencies**
 Clone the repository and install the required dependencies.
 ```bash
-git clone https://github.com/yourusername/ResNet18-Pruning-Performance.git
+git clone https://github.com/Yeshwant-Kasa/ResNet18-Pruning-Performance.git
 cd ResNet18-Pruning-Performance
 pip install -r requirements.txt
 ```
@@ -136,7 +136,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ## 👨‍💻 **Author**
-📌 **Kasa Yeshwant** – *Machine Learning Researcher & AI Enthusiast*  
+📌 **Kasa Yeshwant** – *Sensor Optimization, App Development with Android Studio-Koala, Machine Learning Researcher & AI Enthusiast*  
 📧 [yeshwantkasa@gmail.com](mailto:your.email@example.com)  
 🌍 [GitHub Profile](https://github.com/Yeshwant-Kasa)
 
