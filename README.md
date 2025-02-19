@@ -2,9 +2,8 @@
 This project compares fine-grained vs. channel-level pruning on ResNet-18 trained on CIFAR-10 at pruning ratios 0.1, 0.3, and 0.5. Fine-grained pruning retains accuracy but lacks structured sparsity, while channel-level pruning improves efficiency but degrades accuracy. The study explores trade-offs between accuracy and computational performance.
 
 
-### **GitHub `README.md` for Project Part-2: ResNet-18 Model Pruning Analysis**
+### **Proper `README.md` for Project Part-2: ResNet-18 Model Pruning Analysis**
 
-Below is a professional and well-structured **`README.md`** file for your GitHub repository. It includes all the necessary details for **Project Part-2**, making it easy for others to understand, replicate, and contribute to your work.
 
 ---
 
@@ -143,4 +142,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-This `README.md` is **well-structured, professional, and informative**, making it easier for others to understand and contribute to your project. Let me know if you'd like any modifications! 🚀
+
